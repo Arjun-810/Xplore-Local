@@ -1,0 +1,24 @@
+.svg_card{
+    background-color: white;
+    text-align: center;
+    padding: 60px;
+}
+
+.Svg4{
+    margin-top: 15px;
+}
+
+.Svg2{
+    margin-top: 10px;
+}
+
+.svg-container{
+    height: 250px;
+}
+
+.svg-text{
+    text-align: center;
+    color: rgb(82, 80, 80);
+    font-size: 130%;
+    font-family: 'Poppins', sans-serif;
+}
